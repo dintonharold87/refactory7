@@ -1,6 +1,8 @@
 day 1
     Hello World.
 day 2
-    I'm Dinton Harold.
+    I'm Dinton Harold Ainemukama.
 day 3
-    I'm a fitness enthusiast.      
+    I'm a fitness Enthusiast.
+day 4
+    Strong Manchester United fan.          
